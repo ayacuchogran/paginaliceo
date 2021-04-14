@@ -1,0 +1,67 @@
+.textoquienes{
+	width: 90%;
+	height: auto;
+	margin: 20px auto;
+	text-align: center;
+
+
+}
+
+.textoquienes h1{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px;
+	font-size: 30px;
+}
+
+.leer-mas{
+	margin: 0 auto;
+}
+
+#espacio{
+	height: 600px;
+
+}
+
+.texto1er{
+	width: 40%;
+	height:auto;
+	padding:20px;
+}
+
+.materias1er{
+
+	height: auto;
+	width: 60%;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.areas-tamaño2{
+	width: 150px;
+	height: 150px;
+	background-color: rgb(0,153,122);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.5);
+	text-align: center;
+}
+
+.areas-tamaño2 h3{
+	border: 1px solid white;
+	width: 125px;
+	height:125px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 25px;
+}
+.areas-tamaño2:hover{
+	transform: scale(1.1);
+	transition: 2s ease;
+	box-shadow:  5px 5px 5px rgba(0,0,0,0.5);
+}
+
