@@ -37,6 +37,9 @@
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
+.tamaño_ajustado{
+	height: 700px;
+}
 
 .areas-tamaño2{
 	width: 150px;
