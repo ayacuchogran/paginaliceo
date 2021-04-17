@@ -230,6 +230,7 @@ transition: 1s ease;
 	height:425px;
 	margin-top:10px;
 	background-color:rgba(239,239,239,.5);
+
 }
 
 .sin-flex{
@@ -374,7 +375,12 @@ margin: 15px;
 
 .acordeon-coleccion{
 	width: 90%;
-
+}
+.seccion5{
+	width:100%; 
+	height:500px;
+	display: flex;
+	margin-top:10px;
 }
 .requisitos-inscripcion{
 	height:200px;
@@ -390,10 +396,10 @@ justify-content: space-around;
 }
 
 i{
-	font-size: 60px;
-	padding-bottom: 10px;
-	text-shadow: 5px 5px 10px rgb(0,0,0,.2);
-	color:var(--color-azul);
+font-size: 60px;
+padding-bottom: 10px;
+text-shadow: 5px 5px 10px rgb(0,0,0,.2);
+color:var(--color-azul);
 }
 
 i:hover{
@@ -502,4 +508,51 @@ margin-right: 50px;
 	display: flex;
 	margin: 0 auto;
 	text-align: center;
+	margin-bottom: 100px;
 }
+.seccion7{
+	width:100%; 
+	height:250px;
+	display: flex;
+	margin-top:10px;
+
+}
+.contactanos{
+	height:200px;
+}
+.contactanos ul li{
+color: black;
+text-align: center;
+}
+.contactanos ul{
+list-style: none;
+display: flex;
+justify-content: space-around;
+}
+
+i{
+	font-size: 60px;
+	padding-bottom: 10px;
+	text-shadow: 5px 5px 10px rgb(0,0,0,.2);
+	color:var(--color-azul);
+}
+
+i:hover{
+background-color: white;
+transform: scale(1.1);
+transition: 1s ease;
+}
+
+.fa-youtube{
+	color:red;
+}
+
+.fa-instagram{
+	color: purple;
+}
+
+.fa-twitter-square{
+	color:blue;
+}
+
+
