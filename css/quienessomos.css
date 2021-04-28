@@ -69,3 +69,31 @@
 	box-shadow:  5px 5px 5px rgba(0,0,0,0.5);
 }
 
+.areas-tamañoopsu{
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: inset 5px 5px 5px rgba(0,0,0,0.5);
+	text-align: center;
+}
+
+.areas-tamañoopsu h3{
+	border: 1px solid white;
+	width: 125px;
+	height:125px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 25px;
+}
+.areas-tamañoopsu:hover{
+	transform: scale(1.1);
+	transition: 2s ease;
+	box-shadow:  5px 5px 5px rgba(0,0,0,0.5);
+}
+
+
