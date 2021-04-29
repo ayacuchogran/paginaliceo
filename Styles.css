@@ -206,7 +206,6 @@ transition: 1s ease;
 	width: 100%;
 	height:auto;
 	box-shadow: 5px 5px 10px rgb(0,0,0,.5);
-
 }
 
 .areas-tamaño:hover{
@@ -415,6 +414,8 @@ width: 0 auto;
 height: 0 auto;
 margin-top: 100px;
 background-color: #180B3F;
+margin-bottom: 0;
+
 
 }
 
