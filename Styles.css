@@ -60,7 +60,7 @@ a{
 list-style: none;
 display: inline-block;
 color:var(--color-blanco);
-margin: 10px;
+margin: 8px;
 }
 .derecha ul li a{
 	text-decoration: none;
@@ -414,6 +414,7 @@ width: 0 auto;
 height: 0 auto;
 background-color: #180B3F;
 bottom: 0;
+margin-top: 5px;
 }
 
 .footer-logo{
