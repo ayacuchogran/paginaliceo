@@ -3,6 +3,9 @@
 	height: auto;
 	margin: 20px auto;
 	text-align: center;
+	min-height: calc(100vh - 400px);
+	position: relative;
+	border: 5px solid red;
 
 
 }
@@ -12,6 +15,7 @@
 	text-transform: uppercase;
 	padding: 20px;
 	font-size: 30px;
+
 }
 
 .leer-mas{
