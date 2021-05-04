@@ -157,3 +157,6 @@
 		min-height: calc(100vh - 400px);
 	position: relative;
 }
+.video{
+	border:5px solid red;
+}
