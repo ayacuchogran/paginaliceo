@@ -124,6 +124,9 @@
 .semanario{
 	display: flex;
 	flex-wrap: wrap;
+	min-height: calc(100vh - 400px);
+	position: relative;
+
 }
 .semanario-enlance{
 	margin: 50px auto;
