@@ -121,3 +121,20 @@
 	transition: 2s ease;
 	box-shadow:  5px 5px 5px rgba(0,0,0,0.5);
 }
+.semanario{
+	display: flex;
+	flex-wrap: wrap;
+}
+.semanario-enlance{
+	margin: 50px auto;
+	height:50px;
+	width: 200px;
+	margin-top: 10px;
+	text-align: center;
+	padding-top: 13px;
+	border-radius: 15px;
+	background-color: red;
+	color:var(--color-blanco);
+	text-transform: uppercase;
+
+}
