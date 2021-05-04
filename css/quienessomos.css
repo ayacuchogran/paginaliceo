@@ -136,5 +136,8 @@
 	background-color: red;
 	color:var(--color-blanco);
 	text-transform: uppercase;
-
+}
+.seccion1er{
+	min-height: calc(100vh - 400px);
+	position: relative;
 }
