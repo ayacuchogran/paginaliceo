@@ -507,11 +507,11 @@ margin-right: 50px;
 .contenedor_informacion{
 	width: 90%;
 	height: auto;
-	display: flex;
 	margin: 0 auto;
 	text-align: center;
 	margin-bottom: 50px;
 }
+
 .seccion7{
 	width:100%; 
 	height:250px;
