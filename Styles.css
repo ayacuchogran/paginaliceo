@@ -96,6 +96,9 @@ background-size: cover;
 	margin-top: 20px;
 	text-align: center;
 }
+.imagen h1{
+	text-transform: uppercase;
+}
 .text-section h1{
 	text-transform: uppercase;
 	margin-bottom: 20px;
