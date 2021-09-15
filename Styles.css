@@ -509,12 +509,13 @@ margin-right: 50px;
 
 
 .contenedor_informacion{
-	width: 90%;
-	height: auto;
+	width: 250px;
+	height: 0 auto;
 	margin: 0 auto;
 	text-align: center;
 	margin-bottom: 50px;
 }
+
 .contenedor_informacion p{
 	font-size:  12px;
 }
@@ -528,6 +529,7 @@ margin-right: 50px;
 }
 .contactanos{
 height:200px;
+
 }
 .contactanos ul li{
 color: black;
@@ -539,6 +541,7 @@ margin-top: 25px;
 list-style: none;
 display: flex;
 justify-content: space-around;
+
 }
 
 i{
@@ -564,6 +567,7 @@ transition: 1s ease;
 
 .fa-twitter-square{
 	color:blue;
+
 }
 
 .familia{
