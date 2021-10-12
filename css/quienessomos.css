@@ -100,12 +100,17 @@
 	transition: 2s ease;
 	box-shadow:  5px 5px 5px rgba(0,0,0,0.5);
 }
-.galeria{
+.ajustable{
 	height: auto;
 	width: auto;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+}
+
+.ajustable h3{
+	margin:0 auto;
+	text-transform: uppercase;
 }
 
 .galeria-fotos{
@@ -169,7 +174,9 @@
 .seccion1er{
 	min-height: calc(100vh - 400px);
 	position: relative;
-	border: solid 5px red;
+}
+.crp h3{
+	font-size: 20px;
 }
 .relative{
 		min-height: calc(100vh - 400px);

@@ -578,4 +578,7 @@ transition: 1s ease;
 	margin-top: 10px;
 
 }
+.botones{
+	border: 5px solid red;
+}
 
